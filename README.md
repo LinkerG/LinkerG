@@ -1,8 +1,8 @@
-<h1>Iker González Tirado  -  Junior Fullstack Web/App Developer</h1>
+<h1>Iker González Tirado<br>Junior Fullstack Web/App Developer</h1>
 
 ## Tech Stack
 | **Frontend** | **Backend** | **Usefull tools and database** |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,php,dotnet,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,mongo,postgres,mysql,azure,linux,figma,notion)](https://skillicons.dev) |
 
 ## Soft Skills
