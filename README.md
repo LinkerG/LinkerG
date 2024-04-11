@@ -3,7 +3,7 @@
 ## Tech Stack
 | **Frontend** | **Backend** | **Usefull tools and database** |
 | :---: | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,astro)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,laravel,php,dotnet,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,mongo,postgres,mysql,azure,linux,figma,notion)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,astro,bootstrap,js,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,laravel,php,dotnet,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,mongo,postgres,mysql,azure,linux,figma,notion)](https://skillicons.dev) |
 
 ## Soft Skills
  - **Time management:** I am able to plan my daily schedule in order to work efficiently and meet my deadlines.
